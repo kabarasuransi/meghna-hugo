@@ -1,5 +1,5 @@
 baseURL = "https://kabar-asuransi.netlify.app"
-disableLanguages = ["fr"]
+disableLanguages = ["Fr"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
