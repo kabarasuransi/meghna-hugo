@@ -2,7 +2,6 @@
 author = "Kabar"
 date = 2021-07-06T17:00:00Z
 description = "Kabar asuransi — Dapatkan informasi seputar asuransi, cara beli asuransi, keuangan, bisnis dan investasi."
-draft = true
 image = ""
 image_webp = ""
 title = "Tentang Kabar Asuransi"
