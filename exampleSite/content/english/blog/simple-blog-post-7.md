@@ -7,7 +7,7 @@ author: John Doe
 description: logo asuransi prudential
 
 ---
-Ada banyak perusahaan asuransi yang menawarkan produk asuransi kesehatan sebagai salah satu produknya. Salah satu perusahaan asuransi yang juga menawarkan produk asuransi kesehatan adalah Prudential.
+Ada banyak perusahaan asuransi yang menawarkan produk [asuransi kesehatan](https://lifepal.co.id/asuransi/kesehatan/) sebagai salah satu produknya. Salah satu perusahaan asuransi yang juga menawarkan produk asuransi kesehatan adalah Prudential.
 
 Perusahaan asal Inggris ini sudah beroperasi hampir lebih dari 145 tahun. Dengan beragam produk asuransi yang ditawarkan, Prudential cukup diingat oleh masyarakat luas sebagai salah satu perusahaan asuransi terbaik di dunia.
 
