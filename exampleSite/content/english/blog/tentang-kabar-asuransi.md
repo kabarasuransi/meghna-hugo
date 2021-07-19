@@ -9,4 +9,4 @@ title = "Tentang Kabar Asuransi"
 +++
 Kabar Asuransi - Blog yang berisi segala hal tentang asuransi, mulai dari cara beli asuransi, promo asuransi, dan klaim asuransi. Selain itu juga memberikan informasi seputar keuangan, bisnis, dan investasi.
 
-Pelajari lebih lanjut di [Lifepal](https://lifepal.co.id/), [asuransi kesehatan](https://lifepal.co.id/asuransi/kesehatan/), [asuransi mobil](https://lifepal.co.id/asuransi/mobil/), dan [asuransi jiwa](https://lifepal.co.id/asuransi/jiwa/).
+Pelajari lebih lanjut di [Lifepal](https://lifepal.co.id/), asuransi kesehatan, asuransi mobil, dan asuransi jiwa.
