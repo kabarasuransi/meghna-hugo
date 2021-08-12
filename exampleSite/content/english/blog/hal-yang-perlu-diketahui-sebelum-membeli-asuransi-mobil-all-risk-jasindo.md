@@ -2,7 +2,6 @@
 author = "Kabar Asuransi"
 date = 2021-08-11T17:00:00Z
 description = "Asuransi mobil all risk (comprehensive) merupakan satu dari tiga polis yang ditawarkan asuransi mobil Jasindo. Asuransi dari perusahaan pelat merah ini menjanjikan memberikan manfaat yang disesuaikan dengan polis asuransi yang dipilih."
-draft = true
 image = "/images/img_logo_jasindo.jpeg"
 image_webp = "/images/img_logo_jasindo.jpeg"
 title = "Hal Yang Perlu Diketahui Sebelum Membeli Asuransi Mobil All Risk Jasindo"
